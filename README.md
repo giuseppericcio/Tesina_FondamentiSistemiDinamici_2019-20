@@ -1,4 +1,6 @@
-# In questa tesina verranno trattati problemi reali ai quali, attraverso un rigoroso processo di studio e di controllo, si cercherà di pervenire ad una soluzione che sia la più efficiente ed efficace possibile.
+# Tesina di Fondamenti di Sistemi Dinamici
+
+In questa tesina verranno trattati problemi reali ai quali, attraverso un rigoroso processo di studio e di controllo, si cercherà di pervenire ad una soluzione che sia la più efficiente ed efficace possibile.
 
 A tal fine, si farà uso della libreria software Matlab/Simulink fornita dagli autori G. & L. Celentano, oltre al supporto dei volumi I e II anch’essi scritti dai suddetti autori. 
 L’approccio ad ogni singolo problema seguirà i medesimi passi, vale a dire, che si seguirà la seguente tecnica:<br>
